@@ -2,16 +2,19 @@
   box-sizing: border-box;  
   margin: 0;  
   padding: 0;  
-}  html, body {
-height: 100%;
-font-family: 'Inter', system-ui, Arial, sans-serif;
-background: linear-gradient(120deg, #FFEDBC 0%, #ED4264 100%);
-color: #0f1724;
-scroll-behavior: smooth;
-position: relative;
-overflow-x: hidden;
-background-size: cover;
-background-attachment: fixed;
+}  
+html, body {
+  height: 100%;
+  font-family: 'Inter', system-ui, Arial, sans-serif;
+  background: radial-gradient(circle at 40% 40%, 
+  rgba(255, 237, 188, 1) 0%, 
+  rgba(237, 66, 100, 0.9) 50%, 
+  rgba(255, 207, 81, 1) 100%);
+  background-attachment: fixed;
+  color: #0f1724;
+  scroll-behavior: smooth;
+  position: relative;
+  overflow-x: hidden;
 }
 
 a {
