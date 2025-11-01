@@ -7,9 +7,9 @@ html, body {
   height: 100%;
   font-family: 'Inter', system-ui, Arial, sans-serif;
   background: radial-gradient(circle at 40% 40%, 
-  rgba(255, 237, 188, 1) 0%, 
-  rgba(237, 66, 100, 0.9) 50%, 
-  rgba(255, 207, 81, 1) 100%);
+  rgba(255, 189, 174, 1) 0%, 
+  rgba(255, 165, 153, 1) 50%, 
+  rgba(237, 66, 102, 0.9) 100%);
   background-attachment: fixed;
   color: #0f1724;
   scroll-behavior: smooth;
